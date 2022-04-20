@@ -1,6 +1,6 @@
 Hey 👋
 
-🌈 Make things easier and better, keep learning 🌈
+🌈 Try to make things easier and better, keep learning 🌈
 
 complicated --> simplify --> standardize --> processable --> automated
 
@@ -8,6 +8,7 @@ complicated --> simplify --> standardize --> processable --> automated
 - 🌱 Currently learning [cs-study-plan](https://github.com/rovast/cs-study-plan)
 - 🐶 May help you in web develop and product design
 - 🔦 Okay, may be a fullstack also, alaways curiosity
+- 🌞 May world peace.
 
 
 <p float="left">
