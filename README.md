@@ -1,19 +1,17 @@
-### Hi there 👋
+Hey 👋
 
-<!--
-**rovast/rovast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌈 Make things easier and better, keep learning 🌈
 
-Here are some ideas to get you started:
+complicated --> simplify --> standardize --> processable --> automated
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 This guy has no famous title
+- 🌱 Currently learning [cs-study-plan](https://github.com/rovast/cs-study-plan)
+- 🐶 May help you in web develop and product design
+- 🔦 Okay, may be a fullstack also, alaways curiosity
 
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=rovast&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rovast&show_icons=true" height="190">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovast&layout=compact&hide=html&langs_count=10" height="190" />
+</p>
