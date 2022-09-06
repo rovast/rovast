@@ -13,6 +13,7 @@ complicated -- simplify -- standardize -- processable -- automated ---->
 - 🐶 May help you in web develop and product design
 - 🔦 Okay, may be a fullstack also, alaways curiosity
 - 🌞 May world peace.
+- 🔌 js|php|c|golang|java|elixir|vb|vhdl|vue|laravel|phoenixframework|nginx|mysql|mongodb|redis
 
 
 <p float="left">
