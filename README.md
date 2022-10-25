@@ -4,12 +4,8 @@ Hey 👋
 
 ---
 
-<!---
-complicated -- simplify -- standardize -- processable -- automated ---->
-
 - 🔭 This guy has no famous title
-- 🕹 Currently working on [CloudSlit](https://github.com/CloudSlit), [ZTALab](https://github.com/ztalab) and [OpenMSP](https://github.com/OpenMSP)
-- 🌱 Currently learning [cs-study-plan](https://github.com/rovast/cs-study-plan), web3
+- 🕹 Fullstack player
 - 🐶 May help you in web develop and product design
 - 🔦 Okay, may be a fullstack also, alaways curiosity
 - 🌞 May world peace.
